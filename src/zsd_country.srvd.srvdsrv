@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSD_COUNTRY'
+define service ZSD_COUNTRY {
+  expose ZD_COUNTRYNAME;
+}
